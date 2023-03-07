@@ -9,11 +9,11 @@ body{
 /* Navigation bar styles */
 .navbar{
     
-}display: flex;
+     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-
+}
 .nav-item{
     text-decoration: none;
     color: #000000;
